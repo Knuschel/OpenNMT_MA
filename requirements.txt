@@ -1,0 +1,7 @@
+numpy
+pandas
+sacremoses
+sentencepiece
+sacrebleu
+jiwer
+nltk
